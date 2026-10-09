@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "invoices-core",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
